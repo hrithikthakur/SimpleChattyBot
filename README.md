@@ -1,2 +1,2 @@
-# SimpleChattyBot1
+# SimpleChattyBot
 Its a simple chat interactive chat bot.
